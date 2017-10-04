@@ -45,7 +45,7 @@
 }
 </style>
 </head>
-<body>
+<body background="images/home_page.jpg>
 <center><h2>GUEST SECTION</h2><center>
 <em><p>Welcome To <b>BOOK-4-U</b> Database Guest Panal</p></em>
 <div class="dropdown">
